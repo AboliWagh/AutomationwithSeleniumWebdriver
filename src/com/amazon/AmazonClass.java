@@ -69,7 +69,7 @@ public class AmazonClass {
 			
 		}
 		
-		System.out.println("*******************");
+		System.out.println("--------------");
 		
 		driver.quit();
 
